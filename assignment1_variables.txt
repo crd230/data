@@ -1,0 +1,21 @@
+--------------------------------------------------------------------------------
+Assignment 1 Variables
+--------------------------------------------------------------------------------
+ 
+
+B01003_001: Total population 
+B17001_001: Population for whom poverty status Is determined
+B17001_004: Income in the past 12 months below poverty level: Male: Under 5 years
+B17001_005: Income in the past 12 months below poverty level: Male: 5 years
+B17001_006: Income in the past 12 months below poverty level: Male: 6 to 11 years
+B17001_007: Income in the past 12 months below poverty level: Male: 12 to 14 years
+B17001_008: Income in the past 12 months below poverty level: Male: 15 years
+B17001_009: Income in the past 12 months below poverty level: Male: 16 and 17 years
+B17001_018: Income in the past 12 months below poverty level: Female: Under 5 years
+B17001_019: Income in the past 12 months below poverty level: Female: 5 years
+B17001_020: Income in the past 12 months below poverty level: Female: 6 to 11 years
+B17001_021: Income in the past 12 months below poverty level: Female: 12 to 14 years
+B17001_022: Income in the past 12 months below poverty level: Female: 15 years
+B17001_023: Income in the past 12 months below poverty level: Female: 16 and 17 years
+B03003_001: Total Hispanic and Not Hispanic
+B03003_003: Hispanic or Latino

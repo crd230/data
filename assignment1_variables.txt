@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------------
-Assignment 1 Variables
+Assignment 1, Question 1-2 Variables
 --------------------------------------------------------------------------------
  
 
@@ -19,3 +19,5 @@ B17001_022: Income in the past 12 months below poverty level: Female: 15 years
 B17001_023: Income in the past 12 months below poverty level: Female: 16 and 17 years
 B03003_001: Total Hispanic and Not Hispanic
 B03003_003: Hispanic or Latino
+B25077_001: Median housing value for owner-occupied housing units
+B25002_002: Total owner-occupied housing units

@@ -1,0 +1,34 @@
+--------------------------------------------------------------------------------
+Codebook for Assignment 1, Question 3-4 data file dc.tracts.shp
+--------------------------------------------------------------------------------
+ 
+All data were downloaded from the 2012-2016 American Community Survey 
+Units of observations: Census tracts in 2010 boundaries
+Washington D.C.
+ 
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+GEOID: Census Tract ID
+
+tract: Census tract
+
+County: County 
+
+state: State name
+
+medincome: Median household income
+
+totp: Total population
+
+mval: Median housing value
+
+pcol: Percent of 25+ year olds with a bachelor’s degree
+
+pblk: Percent of residents - non-Hispanic Asian
+
+pwht: Percent of residents - non-Hispanic white
+
+ppuba: Percent of the population on public assistance

@@ -1,0 +1,36 @@
+--------------------------------------------------------------------------------
+Codebook for Assignment 1, Question 1-2 data file Chicago_Elem_Sch_Boundaries.shp
+--------------------------------------------------------------------------------
+ 
+Data were downloaded from the City of Chicago Open data portal: https://data.cityofchicago.org/
+Units of observations: Elementary school attendance boundaries in 2014-15
+City of Chicago
+ 
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+
+bndrygr: Grade levels served    
+
+grad_ct: Grade category  
+
+sch_typ: School type  
+
+schl_dd: School address  
+
+schol_d: Unique School ID 
+
+schl_nm: School name  
+
+shape_r: Area 
+
+shp_lng: Length
+
+A_R_P_E: Percent of students who score at or above the national average for their grade level on reading 
+
+A_M_P_E: Percent of students who score at or above the national average for their grade level on math
+
+S_P_100: The number of suspensions per 100 students
+
+Mbl_R_P: The student mobility (turnover) rate

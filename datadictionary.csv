@@ -1,0 +1,26 @@
+Variable Label,Census Table,Variable description
+oacode,,OA unique ID
+Male,Gender,% Male
+Age0to4,Age,% Age 0 to 4
+Age15to17,Age,% Age 15 to 17
+Age75,Age,% Age 75 and above
+Single,Marital Status,% Single
+WhiteBritish,Ethnicity,% White British
+WhiteOther,Ethnicity,% White Other
+Indian,Ethnicity,% Indian
+Pakistani,Ethnicity,% Pakistani
+Chinese,Ethnicity,% Chinese
+Black,Ethnicity,% Black
+CoBoldEU,Country of Birth,% Country of Birth EU Member countries in March 2001
+GoodVeryGoodHealth,Health,% Good Very Good Health
+LLTI,Limiting Illness,% Activities Limited by Health or Disability
+ManufactAndConstruct,Industry,% Manufacturing and Construction Industries
+Finance,Industry,% Financial and Insurance Activities
+NoQual,Qualifications,% No Qualifications
+Level4Qual,Qualifications,% Level 4 Qualifications and Above (certificate of higher education)
+OwnedOutright,Tenure,% Home Owned Outright
+SocialRent,Tenure,% Apartment Social Rented
+PrivateRent,Tenure,% Apartment Private Rented
+Student,Students,% Full-time Students
+EmpAndMgr,NS-SEC,% NSSEC 1_1 Large employers and higher managerial and administrative occupations
+LTUnemp,NS-SEC,% NSSEC L14_2 Long-term unemployed

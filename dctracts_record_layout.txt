@@ -27,7 +27,7 @@ mval: Median housing value
 
 pcol: Percent of 25+ year olds with a bachelor’s degree
 
-pblk: Percent of residents - non-Hispanic Asian
+pblk: Percent of residents - non-Hispanic black
 
 pwht: Percent of residents - non-Hispanic white
 

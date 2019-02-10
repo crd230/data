@@ -1,0 +1,69 @@
+--------------------------------------------------------------------------------
+Codebook for Lab 6 data file seattle_census_tracts_2010.shp
+--------------------------------------------------------------------------------
+ 
+Crime data were downloaded from the City of Seattle open data portal.
+All other data were downloaded from the 2012-2016 American Community Survey 
+Units of observations: Census tracts in 2010 boundaries
+
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+GEOID10: Full Census Tract ID (State, County and Tract)
+
+TRACTCE10: Tract ID
+
+vcm14: Number of violent crime incidences, 2014
+
+vcm15: Number of violent crime incidences, 2015
+
+vcm16: Number of violent crime incidences, 2016
+
+vcm17: Number of violent crime incidences, 2017
+
+ppov: Percent poverty
+
+totp: Total population
+
+mhhinc: Median household income
+
+pnhwhite: Percent non-Hispanic white
+
+pnhblack: Percent non-Hispanic black   
+
+pnhasian: Percent non-Hispanic Asian
+
+phisp: Percent Hispanic
+
+unemp: Unemployment rate
+     
+pm1834: Percent of male, 18-34 years old     
+
+div: Percent of divorced households        
+
+pfb: Percent foreign born        
+
+mob: Percent of households that moved in the past year
+
+pocc: Percent of housing units that are owner occupied       
+
+pfhh: Percent of female-headed households       
+
+vcmrt14: Violent crime rate per 100,000 residents, 2014
+
+vcmrt15: Violent crime rate per 100,000 residents, 2015
+
+vcmrt16: Violent crime rate per 100,000 residents, 2016
+
+vcmrt17: Violent crime rate per 100,000 residents, 2017
+
+vcmrt1417: Average violent crime rate per 100,000 residents, 2014-17
+
+popd: Population density
+
+lvcmrt1417: Log average violent crime rate per 100,000 residents, 2014-17
+
+pund18: Percent of residents that are under 18 years old
+
+pwelfare: Percent of the population on public assistance

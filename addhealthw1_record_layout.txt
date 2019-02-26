@@ -1,0 +1,42 @@
+--------------------------------------------------------------------------------
+Codebook for Assignment 4 data file addhealthw1.csv
+--------------------------------------------------------------------------------
+ 
+Individual level data from the National Longitudinal Study of Adolescent to 
+Adult Health.  
+Wave 1 Survey, 1994-1996.
+1990 Census tract data from the 1990 decennial United States Census 
+Units of observations: Adolescents enrolled in grades 7-12. 
+
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+aid: 		Individual ID
+scid:		School ID
+W1NHOOD1:	Neighborhood ID
+gender:		0 - Male, 1 - Female
+for_born:	0 - Born in United States, 1 - Born outside the United States
+hhinc:          Parental household income (in $10,000s)
+ppvt:		Peabody Picture Vocabulary Test score      
+age:       	Age
+parented:  	Highest parental educational attainment - 0: No High school degree
+		1: High school degree, 2: College degree
+hhstruct:  	0 - Does not live with both biological parents, 1 - Lives with both
+		biological parents
+dur:       	Number of years lived in neighborhood
+race:      	0 - Non Hispanic white, 1 - Non Hispanic black, 2 - Hispanic,
+		3 - Non Hispanic Asian, 4 - Other
+depress:	Depression level - Mean of standardized answers to the questions:
+		In the past seven days, I felt sad, felt depressed, felt lonely,
+		felt fearful, bothered by things, had a poor appetite, felt life
+		was not worth living, and thought life had been a failure
+		(0 = never or rarely, 3 = most of the time or all the time)
+pcol:   	Tract level percent of residents 25+ years old with a college degree
+concd:     	Tract level concentrated disadvantage. Mean of standardized values for
+		percent Non Hispanic black, unemployment rate, percent poverty, percent
+		female headed households, percent on public assistance, and percent of 
+		population under 18 years old
+immc:     	Tract level immigrant concentration. Mean of standardized values for
+		percent Hispanic and percent foreign born
+diversity: 	Herfindahl Index of racial diversity

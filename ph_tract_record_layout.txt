@@ -1,0 +1,39 @@
+--------------------------------------------------------------------------------
+Codebook for Assignment 4 data file phil_tracts.shp
+--------------------------------------------------------------------------------
+ 
+Building code violation data were downloaded from the Philadelphia open data portal.
+Demographic and economic data were downloaded from the 2012-2016 American Community Survey.
+Tracts with a 0 population were removed from the file.
+Units of observations: Census tracts in 2010 boundaries.
+
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+
+OBJECTID: 	ID
+STATEFP10:	State FIPS code
+COUNTYFP10:	County FIPS code
+TRACTCE10:	Tract FIPS code 
+GEOID10:	Complete FIPS tract ID
+totpop:		Total population 2012-2016
+mhhinc:		Median household income 2012-2016
+mrent:		Median monthly rent 2012-2016
+mhval:		Median housing value 2012-2016
+pnhwhite:	Percent non-Hispanic white 2012-2016
+pnhblk:		Percent non-Hispanic black 2012-2016
+pnhasian:	Percent non-Hispanic Asian 2012-2016
+phisp:		Percent Hispanic 2012-2016
+pcol:		Percent with college degree 2012-2016
+ppa:		Percent of adults on public assistance 2012-2016
+punemp:		Percent of civilian labor force that are unemployed 2012-2016
+pvac:		Percent of housing units that are vacant 2012-2016
+phnew:		Percent of housing units built 2014 and after 2012-2016
+ph70:		Percent of housing units built before 1970 2012-2016
+ppov:		Percent below poverty line 2012-2016
+lmhhinc:	Log median household income 2012-2016
+popd:		Population density 2012-2016
+lpop:		Log total population 2012-2016.  
+lmhval:		Log median housing value 2012-2016
+usarea:		Number of major building code violations per area in square miles 
+		2015-2017

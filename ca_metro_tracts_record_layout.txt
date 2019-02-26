@@ -1,0 +1,47 @@
+--------------------------------------------------------------------------------
+Codebook for Lab 8 data file ca_metro_tracts.shp
+--------------------------------------------------------------------------------
+ 
+Data were downloaded from the 2012-2016 American Community Survey 
+Units of observations: Census tracts in 2010 boundaries.
+
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+GEOID: FIPS Census Tract ID (State, County and Tract)
+
+GEOIDm: FIPS Metropolitan area ID    
+
+tract: Tract name    
+
+state: State name   
+
+metro: Metro area name   
+
+lhinc: Tract log Hispanic median household income   
+
+lhincm: Metro area log Hispanic median household income    
+
+tpop: Tract total population    
+
+phhown: Tract proportion of Hispanics owning a home 
+  
+phisp: Tract percent Hispanic   
+
+pfb: Tract percent foreign born     
+
+phmov: Tract percent of Hispanic households that have moved in the past year   
+
+punempm: Metro percent of civilian labor force that is unemployed
+
+hwdis: Hispanic-White Dissimilarity index   
+
+fbdis: Foreign-born/Native-born Dissimilarity index   
+
+concd: Tract level concentrated disadvantage. Mean of standardized values for
+	percent Non Hispanic black, unemployment rate, percent poverty, percent
+	female headed households, percent on public assistance, and percent of 
+	population under 18 years old 
+
+ppov: Tract percent poverty

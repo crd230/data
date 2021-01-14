@@ -1,9 +1,9 @@
 --------------------------------------------------------------------------------
-Codebook for Assignment 1, Question 1-2 data file Chicago_Elem_Sch_Boundaries.shp
+Codebook for Assignment 2, Question 2 data file Chicago_Elem_Sch_Boundaries.shp
 --------------------------------------------------------------------------------
  
 Data were downloaded from the City of Chicago Open data portal: https://data.cityofchicago.org/
-Units of observations: Elementary school attendance boundaries in 2014-15
+Units of observations: Elementary school attendance boundaries in 2017-18
 City of Chicago
  
  

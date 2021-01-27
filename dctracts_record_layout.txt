@@ -1,8 +1,8 @@
 --------------------------------------------------------------------------------
-Codebook for Assignment 1, Question 3-4 data file dc.tracts.shp
+Codebook for Assignment 3, Questions 1-2 data file washington_dc_tracts.shp
 --------------------------------------------------------------------------------
  
-All data were downloaded from the 2012-2016 American Community Survey 
+All data were downloaded from the 2015-2019 American Community Survey 
 Units of observations: Census tracts in 2010 boundaries
 Washington D.C.
  
@@ -15,7 +15,7 @@ GEOID: Census Tract ID
 
 tract: Census tract
 
-County: County 
+county: County 
 
 state: State name
 

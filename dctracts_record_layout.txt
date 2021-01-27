@@ -25,10 +25,20 @@ totp: Total population
 
 mval: Median housing value
 
-pcol: Percent of 25+ year olds with a bachelor’s degree
-
 pblk: Percent of residents - non-Hispanic black
 
 pwht: Percent of residents - non-Hispanic white
 
-ppuba: Percent of the population on public assistance
+punemp: Percent of civilian labor force that is unemployed
+
+ppov: Percent poverty
+
+pnohs: Percent with a less than a high school degree education (or equivalent) 
+
+pcrowd: Percent of occupied housing units with more than 1 person per room
+
+ppa: Percent of households receiving public assistance
+
+pnveh: Percent of occupied housing units with no private vehicle available
+
+pnoint: Percent of households without internet access

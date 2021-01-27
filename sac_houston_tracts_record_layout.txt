@@ -1,0 +1,71 @@
+--------------------------------------------------------------------------------
+Codebook for Assignment 3, Question 3 data 
+Files houstondems.shp and sacdems.shp
+--------------------------------------------------------------------------------
+ 
+All data were downloaded from the 2015-2019 American Community Survey 
+Units of observations: Census tracts in 2010 boundaries
+houstondems.shp: Houston Metropolitan Area
+sacdems.shp: Sacramento Metropolitan Area
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+GEOID: Census Tract ID
+
+nhblk: Number of non-Hispanic black - tract
+
+nhwhite: Number of non-Hispanic white - tract
+
+nhasn: Number of non-Hispanic Asian - tract
+
+hisp: Number of Hispanic - tract
+
+noth: Number of Other race/ethnicity - tract
+
+tpop: Total population - tract
+
+pblk: Percent non-Hispanic black - tract
+
+pwht: Percent non-Hispanic white - tract
+
+pasn: Percent non-Hispanic Asian - tract
+
+phisp: Percent Hispanic - tract
+
+poth: Percent Other race/ethnicity - tract
+
+ppov: Percent poverty - tract
+
+pu18: Percent of residents under 18 years old - tract
+
+p2234: Percent of residents between 22 and 34 years old - tract
+
+pcol: Percent with a college degree - tract
+
+pfb: Percent foreign born - tract
+
+NAME: Metropolitan area name
+
+nhblkc: Number of non-Hispanic black - metro area
+
+nhwhitec: Number of non-Hispanic white - metro area
+
+nhasnc: Number of non-Hispanic Asian - metro area
+
+hispc: Number of Hispanic - metro area
+
+nothc: Number of Other race/ethnicity - metro area
+
+tpopc: Total population - metro area
+
+pblkc: Percent non-Hispanic black - metro area
+
+pwhtc: Percent non-Hispanic white - metro area
+
+pasnc: Percent non-Hispanic Asian - metro area
+
+phispc: Percent Hispanic - metro area
+
+pothc: Percent Other race/ethnicity - metro area

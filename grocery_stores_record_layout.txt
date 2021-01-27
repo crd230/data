@@ -1,0 +1,66 @@
+--------------------------------------------------------------------------------
+Codebook for Assignment 3, Questions 1-2 data file DC_Grocery_Store_Locations.shp
+--------------------------------------------------------------------------------
+ 
+All data were downloaded from Washington D.C.'s Open Data Portal 
+Units of observations: Full-service grocery stores as of 2018
+Washington D.C.
+ 
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+OBJECTID: Unique Grocery ID
+
+STORENAME: Grocery store name
+
+PHONE: Phone number 
+
+PRESENT90: Store was open in 1990
+
+PRESENT95: Store was open in 1995
+
+PRESENT00: Store was open in 2000
+
+PRESENT05: Store was open in 2005
+
+PRESENT08: Store was open in 2008
+
+NOTES: Open data portal notes
+
+PRESENT09: Percent of residents - non-Hispanic white
+
+ppuba: Percent of the population on public assistance
+
+PRESENT10: Store was open in 2010
+
+PRESENT11: Store was open in 2011
+
+PRESENT12: Store was open in 2012
+
+PRESENT13: Store was open in 2013
+
+PRESENT14: Store was open in 2014
+
+PRESENT15: Store was open in 2015
+
+PRESENT16: Store was open in 2016
+
+PRESENT17: Store was open in 2017
+
+PRESENT18: Store was open in 2018
+
+X_COORD: Longitude
+
+Y_COORD: Latitude
+
+WARD: Washington D.C. Ward
+
+ADDRESS_ID: Washington D.C. open data portal internal address ID
+
+SSL: ArcGIS certificate
+
+ZIPCODE: Zipcode
+
+GIS_ID: ArcGIS ID

@@ -47,25 +47,3 @@ pcol: Percent with a college degree - tract
 pfb: Percent foreign born - tract
 
 NAME: Metropolitan area name
-
-nhblkc: Number of non-Hispanic black - metro area
-
-nhwhitec: Number of non-Hispanic white - metro area
-
-nhasnc: Number of non-Hispanic Asian - metro area
-
-hispc: Number of Hispanic - metro area
-
-nothc: Number of Other race/ethnicity - metro area
-
-tpopc: Total population - metro area
-
-pblkc: Percent non-Hispanic black - metro area
-
-pwhtc: Percent non-Hispanic white - metro area
-
-pasnc: Percent non-Hispanic Asian - metro area
-
-phispc: Percent Hispanic - metro area
-
-pothc: Percent Other race/ethnicity - metro area

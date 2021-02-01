@@ -29,9 +29,7 @@ PRESENT08: Store was open in 2008
 
 NOTES: Open data portal notes
 
-PRESENT09: Percent of residents - non-Hispanic white
-
-ppuba: Percent of the population on public assistance
+PRESENT09: Store was open in 2009
 
 PRESENT10: Store was open in 2010
 

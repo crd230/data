@@ -1,0 +1,28 @@
+--------------------------------------------------------------------------------
+Codebook for Assignment 4, Question 2 data file philadelphia_tracts.shp
+--------------------------------------------------------------------------------
+ 
+Demographic and socioeconomic data were downloaded from the 2015-2019 American
+Community Survey
+2019 crime data were downloaded from the Philadelphia Open Data portal.
+Units of observation: Census tracts
+Philadelphia city, PA
+Note: Tracts with 0 population were removed
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+GEOID: Census tract ID
+
+popd: Total population per squared miles
+
+concd: Concentrated disadvantage
+
+immc: Immigrant concentration
+
+resm: Percent of individuals who moved residences in the past year (Standardized)
+
+pocc: Percent of housing units that are owner-occupied
+
+vcrpop: Log violent crime rate (crime per 1,000 residents)

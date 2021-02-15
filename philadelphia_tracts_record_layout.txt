@@ -8,6 +8,8 @@ Community Survey
 Units of observation: Census tracts
 Philadelphia city, PA
 Note: Tracts with 0 population were removed
+Violent crimes are defined as Aggravated Assaults, Homicides, Rapes and Robberies
+by the Federal Bureau of Investigation 
  
 --------------------------------------------------------------------------------
 Data Dictionary

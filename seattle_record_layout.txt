@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------------
-Codebook for Lab 6 data file seattle_census_tracts_2010.shp
+Codebook for Lab 10 data file seattle_census_tracts_2010.shp
 --------------------------------------------------------------------------------
  
 Crime data were downloaded from the City of Seattle open data portal.
